@@ -8,10 +8,15 @@
 	
 	
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solution.jang@gmail.com)](mailto:solution.jang@gmail.com)
-	
 
+ 
 
-## Hi there 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/jae-yong-jang-411aa975/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
+  <a href="https://www.youtube.com/@andrewjang153"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30"/></a>
+  <a href="https://www.facebook.com/andrew.jang.37"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30"/></a>
+  <a href="mailto:solution.jang@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
+</p>
 
 <!--
 **andrewJYjang/andrewJYjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
