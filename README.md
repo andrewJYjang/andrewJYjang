@@ -1,4 +1,4 @@
-[![HitCount](https://hits.dwyl.com/andrewJYjang/hits.svg](http://hits.dwyl.com/andrewJYjang/hits)
+[![Hits](https://hits.sh/github.com/andrewJYjang/andrewJYjang/hits.svg)](https://hits.sh/github.com/andrewJYjang/andrewJYjang/hits/)
 
 
 ## Hi there 👋
