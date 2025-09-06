@@ -1,3 +1,5 @@
+  [![HitCount](https://hits.dwyl.com/andrewJYjang/{project}.svg?style=flat-square&show=unique)](http://hits.dwyl.com/andrewJYjang/{project})
+
 ## Hi there 👋
 
 <!--
