@@ -1,6 +1,7 @@
 [![Hits](https://hits.sh/github.com/andrewJYjang/andrewJYjang/hits.svg)](https://hits.sh/github.com/andrewJYjang/andrewJYjang/hits/)
-	
 
+I'm in pursuit of driving social impact by empowering innovators to use emerging technologies, and leveraging digital transformation to create solutions for humanity's challenges.
+As an author of 'Coding Era', which was selected as a Sejong Book, I am deeply aware that the changes I predicted for the future of society are now almost entirely becoming reality. This realization brings me an even greater sense of responsibility for the role and impact I carry forward.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jae-yong-jang-411aa975/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/></a>
